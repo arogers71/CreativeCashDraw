@@ -1,0 +1,8 @@
+D:\Projects\CashDraw\CreativeCashDraw\obj\Debug\CreativeCashDraw.Properties.Resources.resources
+D:\Projects\CashDraw\CreativeCashDraw\obj\Debug\CreativeCashDraw.View.CashDrawView.resources
+D:\Projects\CashDraw\CreativeCashDraw\obj\Debug\CreativeCashDraw.csproj.GenerateResource.Cache
+D:\Projects\CashDraw\CreativeCashDraw\bin\Debug\CreativeCashDraw.exe.config
+D:\Projects\CashDraw\CreativeCashDraw\bin\Debug\CreativeCashDraw.exe
+D:\Projects\CashDraw\CreativeCashDraw\bin\Debug\CreativeCashDraw.pdb
+D:\Projects\CashDraw\CreativeCashDraw\obj\Debug\CreativeCashDraw.exe
+D:\Projects\CashDraw\CreativeCashDraw\obj\Debug\CreativeCashDraw.pdb
